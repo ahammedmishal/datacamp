@@ -35,9 +35,9 @@ const App = () => {
     <ScrollReveal
       ref={childRef}
       children={() => (
-        <Switch>
-          <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
-        </Switch>
+        <>
+        <LayoutDefault/>
+        </>
       )} />
   );
 }
