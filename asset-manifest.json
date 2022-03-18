@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/datacamp/static/css/main.65a832fd.chunk.css",
+    "main.js": "/datacamp/static/js/main.82b38b33.chunk.js",
+    "main.js.map": "/datacamp/static/js/main.82b38b33.chunk.js.map",
+    "runtime-main.js": "/datacamp/static/js/runtime-main.5688cc9a.js",
+    "runtime-main.js.map": "/datacamp/static/js/runtime-main.5688cc9a.js.map",
+    "static/js/2.2d016ddc.chunk.js": "/datacamp/static/js/2.2d016ddc.chunk.js",
+    "static/js/2.2d016ddc.chunk.js.map": "/datacamp/static/js/2.2d016ddc.chunk.js.map",
+    "index.html": "/datacamp/index.html",
+    "precache-manifest.05e1c9cd5568330c60d256894ff82d8f.js": "/datacamp/precache-manifest.05e1c9cd5568330c60d256894ff82d8f.js",
+    "service-worker.js": "/datacamp/service-worker.js",
+    "static/css/main.65a832fd.chunk.css.map": "/datacamp/static/css/main.65a832fd.chunk.css.map",
+    "static/js/2.2d016ddc.chunk.js.LICENSE.txt": "/datacamp/static/js/2.2d016ddc.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/datacamp/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/datacamp/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/datacamp/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/datacamp/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/datacamp/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/datacamp/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/datacamp/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/datacamp/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/datacamp/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/datacamp/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/datacamp/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/datacamp/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5688cc9a.js",
+    "static/js/2.2d016ddc.chunk.js",
+    "static/css/main.65a832fd.chunk.css",
+    "static/js/main.82b38b33.chunk.js"
+  ]
+}
