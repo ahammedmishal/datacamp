@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aeed411313f055a9f959a7f9262da308",
+    "revision": "fd83881cc0d103dcfc78e5a534da4d04",
     "url": "/datacamp/index.html"
   },
   {
-    "revision": "685b408398719e3ef7ec",
+    "revision": "df350015228377bf44d4",
     "url": "/datacamp/static/css/main.65a832fd.chunk.css"
   },
   {
-    "revision": "d1e8de39a6d1bd195deb",
-    "url": "/datacamp/static/js/2.2d016ddc.chunk.js"
+    "revision": "77276aa292649769b924",
+    "url": "/datacamp/static/js/2.3606f8d7.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/datacamp/static/js/2.2d016ddc.chunk.js.LICENSE.txt"
+    "url": "/datacamp/static/js/2.3606f8d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "685b408398719e3ef7ec",
-    "url": "/datacamp/static/js/main.82b38b33.chunk.js"
+    "revision": "df350015228377bf44d4",
+    "url": "/datacamp/static/js/main.b2cb715d.chunk.js"
   },
   {
     "revision": "cc8e6d20dfb2b84cba57",
